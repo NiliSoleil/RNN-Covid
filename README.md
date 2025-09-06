@@ -1,19 +1,19 @@
 # RNN-Covid
-RNN-Covid
 
-COVID-19 Prediction with Recurrent Neural Networks
 
-This repository contains a deep learning project focused on time series prediction using various Recurrent Neural Network (RNN) architectures. The project uses a dataset of confirmed COVID-19 cases to predict future trends.
+**COVID-19 Prediction with Recurrent Neural Networks**
 
-Project Objectives
+This repository contains a deep learning project focused on time series prediction using various Recurrent Neural Network (RNN) architectures. This class project uses a dataset of confirmed COVID-19 cases to predict future trends.
+
+**Project Objectives**
 
 The main goals of this project were to:
 
-  Data Preparation: 📊 To prepare time series data for an RNN model, including normalization and creating sequential samples.
-  Model Implementation: 🧠 To implement and compare the performance of different RNN models, including custom and built-in PyTorch versions.
-  Model Evaluation: 📉 To evaluate the models' performance using the MAE metric and visualize their predictions against the actual data.
+  **Data Preparation:** 📊 To prepare time series data for an RNN model, including normalization and creating sequential samples.
+  **Model Implementation:** 🧠 To implement and compare the performance of different RNN models, including custom and built-in PyTorch versions.
+  **Model Evaluation:** 📉 To evaluate the models' performance using the MAE metric and visualize their predictions against the actual data.
   
-Key Project Steps
+**Key Project Steps**
 
 The project was completed in the following stages:
 
